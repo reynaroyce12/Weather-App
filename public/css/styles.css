@@ -1,0 +1,22 @@
+body {
+    background-color: #79B4B7;
+}
+
+.form-control {
+    margin: auto;
+    margin-top: 10rem;
+}
+
+.form-control {
+    width: 50%;
+}
+
+.go-button {
+    border-radius: 0.5rem;
+    margin-left: 45rem; 
+}
+
+h3 {
+    text-align: center;
+    margin-top: 15rem;
+}
